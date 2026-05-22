@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=FF0040&center=true&vCenter=true&width=500&lines=%3E+sav.dev;%3E+learning+%C2%B7+building+%C2%B7+shipping;%3E+um+commit+por+vez)
+![Banner](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=FF0040&center=true&vCenter=true&width=500&lines=%3E+sav.dev;%3E+learning+%C2%B7+building+%C2%B7+shipping)
 
 </div>
 
@@ -38,12 +38,12 @@ const sav = {
 ## `> stats.sh`
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=savdeveloper&show_icons=true&theme=radical&hide_border=true&bg_color=07060b&title_color=FF0040&icon_color=FF0040&text_color=FFFFFF&count_private=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=savdeveloper&theme=radical&hide_border=true&background=07060b&ring=FF0040&fire=FF0040&currStreakLabel=FF0040" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savdeveloper&layout=compact&theme=radical&hide_border=true&bg_color=07060b&title_color=FF0040&text_color=FFFFFF" />
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=savdeveloper&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 
 </div>
 
