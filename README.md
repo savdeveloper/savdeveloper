@@ -43,7 +43,7 @@ const sav = {
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=savdeveloper&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=savdeveloper.savdeveloper&left_color=000&right_color=FF0040&left_text=visitors" />
 
 </div>
 
