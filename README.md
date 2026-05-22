@@ -6,17 +6,18 @@
 
 ---
 
-## `root@sav:~$ cat whoami.md`
+## `sav@root:~$ python whoami.py`
 
-```js
-const sav = {
-  alias:    "savdev",
-  role:     "Front-end Developer",
-  site:     "iamsav.dev",
-  focus:    ["UI limpa", "código organizado", "detalhes"],
-  learning: ["React", "Node.js", "Tailwind"],
-  status:   "construindo a web, um commit por vez"
-}
+```python
+class sav:
+    def __init__(self):
+        self.name     = "Victor Borges"
+        self.alias    = "savdev"
+        self.role     = "Front-end Developer"
+        self.site     = "iamsav.dev"
+        self.focus    = ["UI limpa", "código organizado", "detalhes"]
+        self.learning = ["React", "Node.js", "Tailwind"]
+        self.status   = "construindo a web"
 ```
 
 ---
@@ -35,20 +36,6 @@ const sav = {
 
 ---
 
-## `> stats.sh`
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=savdeveloper&theme=radical&hide_border=true&background=07060b&ring=FF0040&fire=FF0040&currStreakLabel=FF0040" />
-
-<br/><br/>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=savdeveloper.savdeveloper&left_color=000&right_color=FF0040&left_text=visitors" />
-
-</div>
-
----
-
 ## `> contact.sh`
 
 <p>
@@ -63,5 +50,9 @@ const sav = {
 <div align="center">
 
 *`// made with ♥ by sav`*
+
+<br/>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=savdeveloper.savdeveloper&left_color=000&right_color=FF0040&left_text=visitors" />
 
 </div>
